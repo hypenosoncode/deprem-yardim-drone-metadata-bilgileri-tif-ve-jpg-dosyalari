@@ -11,11 +11,13 @@ pip install ExifRead
 ```
 ## KULLANIM
 Dosya türü .jpg ise `jpg_file_detect > jpg_coordinate_analysis.py` kodu çalıştırılmalıdır. Kod içerisinde `img = PIL.Image.open(".../.../***.jpg")` bulunan yere fotoğrafın konumu yazılır. Kod çalıştırıldıktan sonra metadata içerisinde bulunan önemli verileri getirecektir.
+
 ![image](https://user-images.githubusercontent.com/74931027/219063344-23dc07ca-5732-46fe-a75f-e314f30e61e6.png)
 
 Kod çalıştıktan sonra koordinat verileri `jpg_coordinates.kml` adlı dosyaya eklenir ve konum tespitinin yapılması için `jpg_location.html` adlı Google Maps klasörü oluşturulur.
 
 Dosya türü .tif ise `tif_file_detect > tif_coordinate_analysis.py` kodu çalıştırılmalıdır. Kod içerisinde `with open('.../.../***.tif', 'rb') as f:` bulunan yere fotoğrafın konumu yazılır. Kod çalıştırıldıktan sonra metadata içerisinde bulunan önemli verileri getirecektir.
+
 ![image](https://user-images.githubusercontent.com/74931027/219064369-32f171c7-7b17-40b3-8ca9-4b421689477a.png)
 
 Kod çalıştıktan sonra koordinat verileri `tif_coordinates.kml` adlı dosyaya eklenir ve konum tespitinin yapılması için `tif_location.html` adlı Google Maps klasörü oluşturulur.
