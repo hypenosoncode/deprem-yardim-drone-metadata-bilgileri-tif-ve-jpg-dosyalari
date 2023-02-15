@@ -1,3 +1,7 @@
+"""
+--- Python v3.10.0 ---
+"""
+
 import exifread
 import simplekml
 from gmplot import gmplot
