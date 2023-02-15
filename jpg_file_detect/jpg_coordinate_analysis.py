@@ -1,7 +1,4 @@
 """
-pip install Pillow
-pip install simplekml
-pip install gmplot
 --- Python v3.10.0 ---
 """
 
