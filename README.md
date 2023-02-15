@@ -1,4 +1,4 @@
-# Deprem Yardim Metadata Bilgileri .tif ve .jpg Dosyaları İçin
+# Deprem Yardım Metadata Bilgileri .tif ve .jpg Dosyaları İçin
 
 Deprem yardım projesinin bir geliştiricisi olarak drone görüntülerinde .tif veya .jpg dosya formatlarında bulunan önemli metadata verilerini çeken ve KML dosyasına aktaran çalışmadır.
 
