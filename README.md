@@ -39,9 +39,9 @@ for tag in tags.keys():
 Kod çıktısı size tag'ları verecektir. İlgili veriyi `variable = exif_tags.get('Tag')` şeklinde çekebilirsiniz.
 
 ## DESTEK
-Proje konusunda farklı fikirleriniz varsa ve geliştirmek istiyorsanız 'issue' açabilir veya benimle iletişime geçebilirsiniz.
+Proje konusunda farklı fikirleriniz varsa ve geliştirmek istiyorsanız `Issue` açabilir veya benimle iletişime geçebilirsiniz.
 
-### 🤝🏻 &nbsp;Contact Me & Social Media
+### 🤝🏻 &nbsp;İletişim & Sosyal Medya
 
 <p align="center">
 <a href="mailto:cinarismailselcuk@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
